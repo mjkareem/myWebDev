@@ -13,5 +13,5 @@ Below are the Projects inside this repo. List will be incremental.
 Simple markup with images, set of webpages and relative links in ```HTML```.
 
 #### PROJECT 2: _Desc_
-Application of both ```HTML5``` and ```CSS3```. 
+Application of both ```HTML5``` and ```CSS3```.
 Homepage design project.
